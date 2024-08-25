@@ -1,0 +1,29 @@
+/* Content.css */
+.content {
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  /* Footer.css */
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+  }
+  
+  /* Header.css */
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+  }
+  
+  /* List.css */
+  .list {
+    padding: 20px;
+    background-color: #fff;
+    text-align: center;
+  }
+  

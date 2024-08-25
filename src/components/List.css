@@ -1,0 +1,47 @@
+/* src/components/List.css */
+.list {
+    padding: 20px;
+    background-color: #fff;
+    text-align: center;
+  }
+  
+  .list h2 {
+    font-size: 1.8rem;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .list ul {
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .list ul li {
+    width: 30%;
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #f4f4f4;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    text-align: left;
+  }
+  
+  .list ul li img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  .list ul li h3 {
+    font-size: 1.2rem;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .list ul li p {
+    font-size: 1rem;
+    color: #666;
+  }
+  
